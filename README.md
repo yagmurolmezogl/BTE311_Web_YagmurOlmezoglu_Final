@@ -38,7 +38,7 @@ Bu proje, React kullanılarak geliştirilmiş bir hava durumu uygulamasıdır. K
 ## Ekran Görüntüsü
 Uygulamanın ekran görüntüsü:
 
-![Ekran Görüntüsü](public/screenshot.png)
+<img width="1920" height="967" alt="screenshot" src="https://github.com/user-attachments/assets/729eda5a-4eb3-4aab-a9af-d8476c355ad0" />
 
 ## Proje Yapısı
 - `src/Components/Header.js`: Sayfanın başlığı ve açıklaması.
