@@ -1,0 +1,33 @@
+/* Genel Ayarlar */
+.App {
+  min-height: 100vh;
+  transition: background-image 0.5s ease-in-out;
+  background-size: cover;
+  background-position: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Okunabilirlik için siyah filtre */
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4); 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Dinamik Arka Planlar (Resim linkleri ücretsiz kaynaklardandır) */
+.sunny {
+  background-image: url('https://images.unsplash.com/photo-1601297183305-6df142704ea2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+}
+
+.cloudy {
+  background-image: url('https://images.unsplash.com/photo-1534088568595-a066f410bcda?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+}
+
+.rainy {
+  background-image: url('https://images.unsplash.com/photo-1519692933481-e162a57d6721?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+}
+
+.snowy {
+  background-image: url('https://images.unsplash.com/photo-1478265868729-1791174775ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+}
