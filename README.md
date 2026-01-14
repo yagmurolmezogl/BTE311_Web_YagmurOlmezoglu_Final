@@ -16,7 +16,7 @@ Bu proje, React kullanılarak geliştirilmiş bir hava durumu uygulamasıdır. K
 ## Kurulum ve Çalıştırma
 1. Projeyi klonlayın:
    ```bash
-   git clone <proje-linki>
+   git clone <https://github.com/yagmurolmezogl/BTE311_Web_YagmurOlmezoglu_Final.git>
    ```
 2. Proje dizinine gidin:
    ```bash
